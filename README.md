@@ -8,19 +8,19 @@ Dana has a .js file with data about UFO sightings in the US, this data is stored
 
 When you first open the UFO Sightings webpage, you see an introduction that talks about the data that supports the existence of aliens and the table that holds evidence of UFO sightings. 
 
-![]()
+![UFO_webpage.png](https://github.com/fabeza/UFOs/blob/9f21ea1de93e5577805a77aeedd4bdaea10395f4/screenshots/UFO_webpage.png)
 
 After the webpage summary, you find the table that lets you search for UFO sighting records across the US. The complete list of sightings is preloaded so you can see all the fields, but you can filter the table contents by date, city, state, country, and shape.
 
-![]()
+![full_table.png](https://github.com/fabeza/UFOs/blob/9f21ea1de93e5577805a77aeedd4bdaea10395f4/screenshots/full_table.png)
 
 For example, let’s say you only want to see UFO sighting reports in Florida. You go to the “Filter Search” section, at the left side of the table, in the “Enter State” field, you enter “fl” and press “Enter” on your keyboard. As you can see in the image below, the table is now showing all the records for Florida only. 
 
-![]()
+![florida.png](https://github.com/fabeza/UFOs/blob/9f21ea1de93e5577805a77aeedd4bdaea10395f4/screenshots/florida.png)
 
 You can further refine your search by applying any additional filters you’d like, for example, the image below now shows results for UFO sightings in Florida that were reported to have a “fireball” shape.
 
-![]()
+![florida_fireball.png](https://github.com/fabeza/UFOs/blob/9f21ea1de93e5577805a77aeedd4bdaea10395f4/screenshots/florida_fireball.png)
 
 ## Summary
 
